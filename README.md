@@ -26,7 +26,7 @@ I am looking for a funded PhD, starting in 2027, in cancer cell signalling, orga
 ![R](https://img.shields.io/badge/R-single--cell%20statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Cellpose](https://img.shields.io/badge/Cellpose-segmentation-2C4F7A?style=for-the-badge)
 ![Confocal](https://img.shields.io/badge/Confocal-live%20calcium%20imaging-0B1D33?style=for-the-badge)
-![Organoids](https://img.shields.io/badge/Organoids-culture%20%26%20passaging-7A3D9A?style=for-the-badge)
+![Organoids](https://img.shields.io/badge/Organoids-patient--derived%20culture-7A3D9A?style=for-the-badge)
 ![Immunofluorescence](https://img.shields.io/badge/Immunofluorescence-4--channel-D62728?style=for-the-badge)
 ![qPCR](https://img.shields.io/badge/qPCR-RNA%2FDNA%20extraction-555555?style=for-the-badge)
 
