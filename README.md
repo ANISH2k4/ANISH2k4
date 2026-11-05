@@ -4,7 +4,7 @@
 
 ### About me
 
-I am an MSc Molecular Medicine and Cancer Research student at the University of East Anglia in Norwich, UK. In the Williams Laboratory I study how individual cells in patient-derived colorectal cancer organoids respond to receptor signals, using live confocal calcium imaging, and I build the Fiji/ImageJ tools that turn those movies into reproducible single-cell data.
+I am an MSc Molecular Medicine and Cancer Research student at the University of East Anglia in Norwich, UK. In the Williams Laboratory I study how individual cells in patient-derived human colonic organoids respond to receptor signals, using live confocal calcium imaging, and I build the Fiji/ImageJ tools that turn those movies into reproducible single-cell data.
 
 I am looking for a funded PhD, starting in 2027, in cancer cell signalling, organoid biology or quantitative imaging.
 
